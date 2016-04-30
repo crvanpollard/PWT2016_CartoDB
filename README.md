@@ -1,6 +1,8 @@
 # Intro to CartoDB
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)
+
 [CartoDB](https://cartodb.com)
+---
 <i>my markdown cheatsheet</i>
 <dl>
   <dt>CartoDB Workshop Outline</dt>
@@ -9,11 +11,13 @@
 ---
 Christopher Pollard
 
-cpollard@dvrpc.org, @CRVanPollard
+cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 May 4, 2016
 
 PTW 2016 Map It Out
+
+You can follow along here <https://github.com/crvanpollard/PWT2016_CartoDB>
 ---
 ### Today's goal - make this map
 
