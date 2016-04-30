@@ -1,13 +1,10 @@
 # Intro to CartoDB
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)
-
-<i>cheatsheet</i>
+[CartoDB](https://cartodb.com)
+<i>my markdown cheatsheet</i>
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+  <dt>CartoDB Workshop Outline</dt>
+  <dd>Let's talk about <em>maps</em> and <em>data</em></dd>
 </dl>
 ---
 Christopher Pollard
