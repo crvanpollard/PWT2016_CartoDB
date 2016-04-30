@@ -1,5 +1,5 @@
 # Intro to CartoDB
-![alt text](https://github.com/crvanpollard/PWT2016_CartoDB/img/cartodb.png "CartoDB")
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)
 
 <i>cheatsheet</i>
 <dl>
