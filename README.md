@@ -12,8 +12,14 @@ PTW 2016 - Map It Out (May 4, 2016)
 You can follow along [here](https://github.com/crvanpollard/PWT2016_CartoDB)
 ---
 ## Today's goal - make this map
-
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/toda.png)
 ## CartoDB workshop outline
+- An Overview of CartoDB
+- Getting setup w/ CartoDB
+- Importing data into CartoDB
+- Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
+- Sharing your visualization
+- CartoDB Deep Insights (coming summer 2016)
 
 ## Getting Started
 
