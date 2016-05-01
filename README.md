@@ -1,16 +1,11 @@
-# Intro to CartoDB
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)[https://cartodb.com](https://cartodb.com)
 
-Offical website for [CartoDB](https://cartodb.com)
+#Intro to CartoDB workshop - PTW 2016 Map It Out (May 4, 2016)
 
 Christopher Pollard
 
 cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
-PTW 2016 - Map It Out (May 4, 2016)
-
-You can follow along [here](https://github.com/crvanpollard/PWT2016_CartoDB)
----
 ## Today's goal - make this map
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)
 
@@ -29,7 +24,6 @@ You can follow along [here](https://github.com/crvanpollard/PWT2016_CartoDB)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)](http://andrewxhill.com/maps/writers/twain/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
-#### What are people doing with it
 ## Getting Started
 
 ### Set up an account
