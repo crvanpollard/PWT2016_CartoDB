@@ -33,7 +33,7 @@ Census 2009 - 2013 ACS Demographic Profiles ([DVRPC GIS Portal](http://dvrpc.dvr
 
 I have placed them all here for our use today, so copy the following links and paste them into your data importer in CartoDB.
 
-'https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/asc2013_tract_data.csv'
+`https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/asc2013_tract_data.csv`
 
 ### CartoDB Resources
 ## Preparing CSV files for use in CartoDB
