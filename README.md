@@ -13,6 +13,7 @@ You can follow along [here](https://github.com/crvanpollard/PWT2016_CartoDB)
 ---
 ## Today's goal - make this map
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)
+
 ## CartoDB workshop outline
 - An Overview of CartoDB
 - Getting setup w/ CartoDB
@@ -21,6 +22,11 @@ You can follow along [here](https://github.com/crvanpollard/PWT2016_CartoDB)
 - Sharing your visualization
 - CartoDB Deep Insights (coming summer 2016)
 
+## Overview of CartoDB
+#### What are people doing with it
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.gif)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.gif)
 ## Getting Started
 
 ### Set up an account
@@ -40,21 +46,27 @@ I have already downloaded and placed them in my ([GitHub repo](https://github.co
 `https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/asc2013_tract_data.csv`
 
 ## CartoDB Resources
+This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
+http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
+
 #### Preparing CSV files for use in CartoDB
 https://vimeo.com/channels/cartodb/100105203
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)
 
 #### Using Column Join to Merge Tables
 https://vimeo.com/channels/cartodb/100105201
-
-This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
-http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)
 
 #### CartoDB Academy
 The CartoDB Academy is great for recapping the basics, starting to use our APIs, and growing your design capabilities
 http://academy.cartodb.com
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapacademy.png)
 
 #### Odyssey
-A simple way for journalists, designers, bloggers, and other people on the web to publish stories that combine narratives with maps interactions.Always creators to weave interactive stories with images, maps and compeling narritives.
+A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Always creators to weave interactive stories with images, maps, and compeling narritives.
 http://cartodb.github.io/odyssey.js/
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/odyssey.png)
 
-https://github.com/CartoDB/odyssey.js
+#### Bootstrap Starter Kit
+https://github.com/chriswhong/cartodb-bootstrap-template
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/starterkit.png)
