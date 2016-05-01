@@ -25,8 +25,8 @@ You can follow along [here](https://github.com/crvanpollard/PWT2016_CartoDB)
 ## Overview of CartoDB
 #### What are people doing with it
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.gif)
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.gif)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)
 ## Getting Started
 
 ### Set up an account
@@ -51,7 +51,7 @@ http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-referen
 
 #### Preparing CSV files for use in CartoDB
 https://vimeo.com/channels/cartodb/100105203
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)
+([![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)](https://vimeo.com/channels/cartodb/100105203))
 
 #### Using Column Join to Merge Tables
 https://vimeo.com/channels/cartodb/100105201
