@@ -1,15 +1,13 @@
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)[https://cartodb.com](https://cartodb.com)
+#[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)](https://cartodb.com) Intro to CartoDB workshop - PTW 2016 Map It Out (May 4, 2016)
 
-#Intro to CartoDB workshop - PTW 2016 Map It Out (May 4, 2016)
-
-Christopher Pollard
+Christopher Pollard, Manager Geospatial Application Development @DVRPC
 
 cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ## Today's goal - make this map
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)
 
-## CartoDB workshop outline
+## How are we going to get there...
 - Overview of CartoDB
 - Getting Started
 - Importing data into CartoDB
@@ -24,6 +22,16 @@ cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)](http://andrewxhill.com/maps/writers/twain/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
+
+#### CartoDB Editor - https://cartodb.com/editor/
+An easy to use 
+
+#### CartoDB Platform - https://cartodb.com/platform/
+A set of high performance APIs and tools to deliver geospatial applications with big data and extensible location analytic capabilities. CartoDB Editor is actually an application built on top of the CartoDB Platform.
+
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbplatform.png)](https://cartodb.com/platform/)
+
+
 ## Getting Started
 
 ### Set up an account
@@ -57,16 +65,13 @@ https://vimeo.com/channels/cartodb/100105203
 https://vimeo.com/channels/cartodb/100105201
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)](https://vimeo.com/channels/cartodb/100105201)
 
-#### CartoDB Academy
+#### CartoDB Academy - http://academy.cartodb.com
 The CartoDB Academy is great for recapping the basics, starting to use our APIs, and growing your design capabilities
-http://academy.cartodb.com
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapacademy.png)](http://academy.cartodb.com)
 
-#### Odyssey
+#### Odyssey - http://cartodb.github.io/odyssey.js/
 A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Always creators to weave interactive stories with images, maps, and compeling narritives.
-http://cartodb.github.io/odyssey.js/
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/odyssey.png)](http://cartodb.github.io/odyssey.js/)
 
-#### Bootstrap Starter Kit
-https://github.com/chriswhong/cartodb-bootstrap-template
+#### Bootstrap Starter Kit - https://github.com/chriswhong/cartodb-bootstrap-template
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/starterkit.png)](https://github.com/chriswhong/cartodb-bootstrap-template)
