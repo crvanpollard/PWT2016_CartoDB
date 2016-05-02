@@ -95,11 +95,12 @@ We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Pr
 
 ## CartoDB Deep Insights (coming summer 2016)
 Predictive analytics and on-the-fly visualiztion that will drastically improve CartoDB workflows and analysis.
+
 Key take aways: 
 - An actionable dashboard with <b><u>widgets</u></b> (charts and forms)
-- <b><u>High Performace Analytics (HPA)</u></b> to not only view but now analysis <b>LARGE</b> amounts of data, FAST and quick
+- <b><u>High Performance Analytics (HPA)</u></b> that not only views but now performs analysis on <b>LARGE</b> amounts of data...really FAST and quick
 - Data Augmentation (DA) builds a relationship between 2 datasets and everything that surrounds that data.
-DA is series of Aagorithms that geocode the data and adds valuable demographic data that’s open data (population, income, employment, etc..)
+DA is series of algorithms that geocode the data and adds valuable demographic data that’s open data (population, income, employment, etc..)
 
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di1.png)](https://cartodb.com/deep-insights/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di2.png)](https://cartodb.com/deep-insights/)
