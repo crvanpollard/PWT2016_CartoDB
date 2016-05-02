@@ -1,5 +1,4 @@
-#[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)](https://cartodb.com) 
-
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodb.png)](https://cartodb.com) 
 ## Intro to CartoDB workshop - PTW 2016 Map It Out (May 4, 2016)
 
 Christopher Pollard, Manager, Geospatial Application Development @DVRPC
@@ -18,19 +17,19 @@ cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 - CartoDB Deep Insights (coming summer 2016)
 
 ## Overview of CartoDB
-#### What are people doing with it
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)](http://cartodb.s3.amazonaws.com/static_vizz/sunrise.html?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1%7C1&sql=&zoom=2&center_lat=22.917922936146045&center_lon=51.328125#)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/streets.png)](http://illustreets.co.uk/explore-england/)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)](http://andrewxhill.com/maps/writers/twain/)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
-
 #### CartoDB Editor - https://cartodb.com/editor/
 An easy to use 
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbeditor.png)](https://cartodb.com/editor/)
 
 #### CartoDB Platform - https://cartodb.com/platform/
 A set of high performance APIs and tools to deliver geospatial applications with big data and extensible location analytic capabilities. CartoDB Editor is actually an application built on top of the CartoDB Platform.
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbplatform.png)](https://cartodb.com/platform/)
+#### What are people doing with it
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)](http://cartodb.s3.amazonaws.com/static_vizz/sunrise.html?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1%7C1&sql=&zoom=2&center_lat=22.917922936146045&center_lon=51.328125#)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/streets.png)](http://illustreets.co.uk/explore-england/)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)](http://andrewxhill.com/maps/writers/twain/)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
 
 ## Getting Started
 
@@ -64,7 +63,7 @@ http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-referen
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)](https://vimeo.com/channels/cartodb/100105201)
 
 #### CartoDB Academy - http://academy.cartodb.com
-The CartoDB Academy is great for recapping the basics, starting to use our APIs, and growing your design capabilities
+The CartoDB Academy is great for recapping the basics, starting to use their APIs, and growing your design capabilities.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapacademy.png)](http://academy.cartodb.com)
 
 #### Odyssey - http://cartodb.github.io/odyssey.js/
