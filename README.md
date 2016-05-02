@@ -90,6 +90,15 @@ We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Pr
 ## Sharing your visualization
 
 ## CartoDB Deep Insights (coming summer 2016)
+Predictive analytics and on-the-fly visualiztion that will drastically improve CartoDB workflows and analysis.
+Key take aways: 
+- An actionable dashboard with <b><u>widgets</u></b> (charts and forms)
+- <b><u>High Performace Analytics (HPA)</u></b> to not only view but now analysis <b>LARGE</b> amounts of data, FAST and quick
+- Data Augmentation (DA) builds a relationship between 2 datasets and everything that surrounds that data.
+DA is series of Aagorithms that geocode the data and adds valuable demographic data that’s open data (population, income, employment, etc..)
+
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di1.png)](https://cartodb.com/deep-insights/)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di2.png)](https://cartodb.com/deep-insights/)
 
 ## CartoDB Resources
 #### CartCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
