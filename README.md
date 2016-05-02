@@ -5,10 +5,10 @@ Christopher Pollard, Manager, Geospatial Application Development @DVRPC
 
 cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
-## Today's goal - make this map
+### Today's goal - make this map
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)
 
-## How are we going to get there...
+### How are we going to get there...
 - Overview of CartoDB
 - Getting Started 
 - Importing data into CartoDB
@@ -44,17 +44,17 @@ This is where you can view and manage your maps and datasets
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/dashboard.png)
 
 ## Importing data into CartoDB
-### Supported Geospatial Data Formats
-http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats
+### Supported geospatial data formats
+<a href="http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats" target="_new">http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats</a>
 - Shapefile
-- KMl/KMZ
+- KML/KMZ
 - GeoJson
 - CSV
 - Spreadsheets (Excel or OpenDocument)
 - GPX
 - OSM
 
-### Importing data into CartoDB
+### Connecting data to CartoDB
 There are different ways to import data into CartoDB. It can be files you have stored locally or datasets that you can connect to through Dropbox, Google Drive, Box, Twitter, ArcGIS Server, MailChimp, and SalesForce.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/connect.png)
 
@@ -75,6 +75,10 @@ I have already downloaded and placed them in my ([GitHub repo](https://github.co
 `https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/asc2013_tract_data.csv`
 
 ## Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
+
+## Sharing your visualization
+
+## CartoDB Deep Insights (coming summer 2016)
 
 ## CartoDB Resources
 This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
