@@ -45,7 +45,7 @@ This is where you can view and manage your maps and datasets
 
 ## Importing data into CartoDB
 ### Supported geospatial data formats
-<a href="http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats" target="_new">http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats</a>
+http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats
 - Shapefile
 - KML/KMZ
 - GeoJson
