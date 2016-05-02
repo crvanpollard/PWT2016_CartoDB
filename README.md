@@ -79,8 +79,12 @@ I have already downloaded and placed them in my ([GitHub repo](https://github.co
 ### Data View
 This is where you can view, sort, modfiy, add, and merge datasets together. Very similar to excel and other spreadsheet interfaces. 
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/dataview.png)
+
+### Georeferencing
 If you don't have a Geometry field or Lat/Long in your dataset you can use CartoDB's Georeferencing tool to be able to map your data by address, city name, postal code, admin. region, or IP address.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datageo.png)
+
+### Data Merge
 You can also merge datasets that have a common field or attribute in common.
 We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Profile data.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datamerge.png)
