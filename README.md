@@ -10,7 +10,7 @@ cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ## How are we going to get there...
 - Overview of CartoDB
-- Getting Started
+- Getting Started 
 - Importing data into CartoDB
 - Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
 - Sharing your visualization
@@ -18,7 +18,10 @@ cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ## Overview of CartoDB
 #### CartoDB Editor - https://cartodb.com/editor/
-An easy to use 
+Easy to use web map editor helping people visualize and analyze geospatial data
+- Connect, collect, and manage location data
+- Analyze and understand where the impact or trends are occurring
+- Discover insights, patterns, and visually share that information
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbeditor.png)](https://cartodb.com/editor/)
 
 #### CartoDB Platform - https://cartodb.com/platform/
@@ -36,8 +39,27 @@ A set of high performance APIs and tools to deliver geospatial applications with
 ### Set up an account
 If you don't have an account, go sign up: [https://cartodb.com/signup](https://cartodb.com/signup)  
 
+### CartoDB Dashboard
+This is where you can view and manage your maps and datasets
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/dashboard.png)
+
+## Importing data into CartoDB
+### Supported Geospatial Data Formats
+http://docs.cartodb.com/cartodb-platform/import-api/importing-geospatial-data/#supported-geospatial-data-formats
+- Shapefile
+- KMl/KMZ
+- GeoJson
+- CSV
+- Spreadsheets (Excel or OpenDocument)
+- GPX
+- OSM
+
+### Importing data into CartoDB
+There are different ways to import data into CartoDB. It can be files you have stored locally or datasets that you can connect to through Dropbox, Google Drive, Box, Twitter, ArcGIS Server, MailChimp, and SalesForce.
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/connect.png)
+
 ### Datasets
-Today we are going to use several local datasets that focus on Bicycle data.
+Today, we are going to use several local datasets that focus on Bicycle planning.
 I have already downloaded and placed them in my ([GitHub repo](https://github.com/crvanpollard/PWT2016_CartoDB/tree/master/data)) for our use today. Copy the following links below and paste them into your CartoDB importer
 
 - Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
@@ -51,6 +73,8 @@ I have already downloaded and placed them in my ([GitHub repo](https://github.co
 
 - Census 2009 - 2013 ACS Demographic Profiles ([DVRPC GIS Portal](http://dvrpc.dvrpcgis.opendata.arcgis.com/datasets/beb54980293b4c0fa5312f0eb8ffbb1f_0))
 `https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/asc2013_tract_data.csv`
+
+## Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
 
 ## CartoDB Resources
 This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
