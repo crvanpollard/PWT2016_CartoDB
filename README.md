@@ -6,11 +6,11 @@ Christopher Pollard, Manager, Geospatial Application Development @DVRPC
 cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 
 ### Today's goal - make this map
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/todaysmap.png)](https://cpollard.cartodb.com/viz/399ea10e-0f0e-11e6-a48d-0ecd1babdde5/public_map)
 
 ### How are we going to get there...
 - Overview of CartoDB
-- Getting Started 
+- Getting started 
 - Importing data into CartoDB
 - Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
 - Sharing your visualization
@@ -84,12 +84,6 @@ I have already downloaded and placed them in my ([GitHub repo](https://github.co
 This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
 http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
 
-#### Preparing CSV files for use in CartoDB - https://vimeo.com/channels/cartodb/100105203
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)](https://vimeo.com/channels/cartodb/100105203)
-
-#### Using Column Join to Merge Tables - https://vimeo.com/channels/cartodb/100105201
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)](https://vimeo.com/channels/cartodb/100105201)
-
 #### CartoDB Academy - http://academy.cartodb.com
 The CartoDB Academy is great for recapping the basics, starting to use their APIs, and growing your design capabilities.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapacademy.png)](http://academy.cartodb.com)
@@ -98,10 +92,13 @@ The CartoDB Academy is great for recapping the basics, starting to use their API
 A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Always creators to weave interactive stories with images, maps, and compeling narritives.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/odyssey.png)](http://cartodb.github.io/odyssey.js/)
 
+#### Preparing CSV files for use in CartoDB - https://vimeo.com/channels/cartodb/100105203
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/csv.png)](https://vimeo.com/channels/cartodb/100105203)
+
+#### Using Column Join to Merge Tables - https://vimeo.com/channels/cartodb/100105201
+[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)](https://vimeo.com/channels/cartodb/100105201)
+
 #### Bootstrap Starter Kit - https://github.com/chriswhong/cartodb-bootstrap-template
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/starterkit.png)](https://github.com/chriswhong/cartodb-bootstrap-template)
-
-#### Go explore other exciting and powerful web mapping technologies!
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/webmappingtech.png)
 
 
