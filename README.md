@@ -28,8 +28,10 @@ Easy to use web map editor helping people visualize and analyze geospatial data
 A set of high performance APIs and tools to deliver geospatial applications with big data and extensible location analytic capabilities. CartoDB Editor is actually an application built on top of the CartoDB Platform.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbplatform.png)](https://cartodb.com/platform/)
 #### What are people doing with it
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/iceland.png)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)](http://cartodb.s3.amazonaws.com/static_vizz/sunrise.html?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1%7C1&sql=&zoom=2&center_lat=22.917922936146045&center_lon=51.328125#)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/streets.png)](http://illustreets.co.uk/explore-england/)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/lasmog.png)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)](http://andrewxhill.com/maps/writers/twain/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
@@ -81,8 +83,8 @@ I have already downloaded and placed them in my ([GitHub repo](https://github.co
 ## CartoDB Deep Insights (coming summer 2016)
 
 ## CartoDB Resources
+#### CartCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
 This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
-http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
 
 #### CartoDB Academy - http://academy.cartodb.com
 The CartoDB Academy is great for recapping the basics, starting to use their APIs, and growing your design capabilities.
