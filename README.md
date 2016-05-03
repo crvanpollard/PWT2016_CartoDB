@@ -28,12 +28,10 @@ Easy to use web map editor helping people visualize and analyze geospatial data
 A set of high performance APIs and tools to deliver geospatial applications with big data and extensible location analytic capabilities. CartoDB Editor is actually an application built on top of the CartoDB Platform.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cartodbplatform.png)](https://cartodb.com/platform/)
 #### What are people doing with it
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/iceland.png)](http://iceland.cartodb.com/tables/iceland/embed_map?title=true&description=true&search=false&shareable=false&cartodb_logo=true&sql=)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)](http://cartodb.s3.amazonaws.com/static_vizz/sunrise.html?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1%7C1&sql=&zoom=2&center_lat=22.917922936146045&center_lon=51.328125#)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/streets.png)](http://illustreets.co.uk/explore-england/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/lasmog.png)](http://graphics.latimes.com/responsivemap-pollution-burdens/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/marktwain.png)](http://andrewxhill.com/maps/writers/twain/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
 
 ## Getting Started
