@@ -87,30 +87,30 @@ You can also merge datasets that have a common field or attribute.
 We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Profile data.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datamerge.png)
 
-## Visualizing data in CartoDB (style wizard, infowindows, filters, and cartocss)
+## Visualizing data in CartoDB
 ### Style Wizard
 CartoDB comes with some great map design tools that allow the user to pick from multple layer styles (simple, cluster, choropleth, category, bubble, torque, heatmap, intensity, and density).
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_style.png)
 
 ### Infowindows
-You can also turn on infowindows which allow users to click or hover over a layer and view specific information about that feature. You can select from your list of attribute fields and limit the data that you show.
+You can also turn on infowindows which allow users to click or hover over a feature and view specific attribute information. You, as the map maker, can select which attributes you allow your users to view.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_info.png)
 
 ### Filters
-There is also a feature that will allow you to set custom filters or parameters on your layer based off attribute information. For instance, in the map below, the filter is set to only show bicycle counts that have an `ADB` over 100.
+There is also a function that will allow you to set custom filters or parameters on your layer based off attribute information. For instance, in the map below, the filter is set to only show bicycle counts that have an `ADB` over 100.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_filter.png)
 
 ### CartoCSS
-If you wish to have more advanced map styling you can do that with CartoCSS
+If you wish to have more advanced map styling you can do that with CartoCSS editor.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_cartocss.png)
 
 ### Creating a map of your data
-Once you are ready to make a map you click the `Visualize` button and you will now have several map layout tools available. Here you can add a title, text, annotaion,and images as well as select from other mutlple map options.
+Once you are ready to make a map you click the `Visualize` button and you will now have several map layout tools available. Here you can add a title, text, annotaion, and images, as well as, select from other map options.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_map.png)
 
 ## Publishing your visualization
 ### Time to share you map with the world
-Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed it into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
+Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed your map into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
 
 ## CartoDB Deep Insights (coming summer 2016)
@@ -118,23 +118,23 @@ Predictive analytics and on-the-fly visualiztion that will drastically improve C
 
 Key take aways: 
 - An actionable dashboard with <b><u>widgets</u></b> (charts and forms)
-- <b><u>High Performance Analytics (HPA)</u></b> that not only views but now performs analysis on <b>LARGE</b> amounts of data...really FAST and quick
+- <b><u>High Performance Analytics (HPA)</u></b> that not only maps your data but now performs analysis on <b>LARGE</b> amounts of data...really FAST and quick
 - Data Augmentation (DA) builds a relationship between 2 datasets and everything that surrounds that data.
-DA is series of algorithms that geocode the data and adds valuable demographic data that’s open data (population, income, employment, etc..)
+Data Augmentation is a series of algorithms that geocode the datasets, performs a spatial join, and adds valuable demographic data (population, income, employment, etc..) to your targeted dataset.
 
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di1.png)](https://cartodb.com/deep-insights/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/di2.png)](https://cartodb.com/deep-insights/)
 
 ## CartoDB Resources
-#### CartCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
-This handy CartCSS Reference Sheet is a quick guide for beginners to CartoCSS
+#### CartoCSS Reference Sheet - http://ebrelsford.github.io/talks/2014/Methods3/week7/materials/cartocss-reference.pdf
+This handy CartoCSS Reference Sheet is a quick guide for beginners to CartoCSS
 
 #### CartoDB Academy - http://academy.cartodb.com
 The CartoDB Academy is great for recapping the basics, starting to use their APIs, and growing your design capabilities.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapacademy.png)](http://academy.cartodb.com)
 
 #### Odyssey - http://cartodb.github.io/odyssey.js/
-A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Always creators to weave interactive stories with images, maps, and compeling narritives.
+A simple way for journalists, designers, bloggers, and others to publish stories that combine narratives with map interactions. Allows creative minded people to weave interactive stories with images, maps, and compeling narritives.
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/odyssey.png)](http://cartodb.github.io/odyssey.js/)
 
 #### Preparing CSV files for use in CartoDB - https://vimeo.com/channels/cartodb/100105203
@@ -142,8 +142,5 @@ A simple way for journalists, designers, bloggers, and others to publish stories
 
 #### Using Column Join to Merge Tables - https://vimeo.com/channels/cartodb/100105201
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/merge.png)](https://vimeo.com/channels/cartodb/100105201)
-
-#### Bootstrap Starter Kit - https://github.com/chriswhong/cartodb-bootstrap-template
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/starterkit.png)](https://github.com/chriswhong/cartodb-bootstrap-template)
 
 
