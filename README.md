@@ -31,7 +31,6 @@ A set of high performance APIs and tools to deliver geospatial applications with
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/sunrise.gif)](http://cartodb.s3.amazonaws.com/static_vizz/sunrise.html?title=true&description=true&search=false&shareable=true&cartodb_logo=true&layer_selector=false&legends=false&scrollwheel=true&sublayer_options=1%7C1&sql=&zoom=2&center_lat=22.917922936146045&center_lon=51.328125#)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/streets.png)](http://illustreets.co.uk/explore-england/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/lasmog.png)](http://graphics.latimes.com/responsivemap-pollution-burdens/)
-[![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/nycairbnb.png)](http://blog.cartodb.com/airbnb-impact/)
 [![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/cyclephilly.png)](http://www.dvrpc.org/webmaps/cyclephilly/)
 
 ## Getting Started
@@ -62,11 +61,11 @@ There are different ways to import data into CartoDB. It can be files you have s
 Today, we are going to use several local datasets that focus on Bicycle Planning.
 I have already downloaded and have them ready for our use today. Please copy the following URLs listed below and paste them, one at a time, into your CartoDB importer.
 
-- Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
-`https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/phl_bike_network.zip`
-
 - DVRPC Bicycle Counts ([DVRPC GIS Portal](http://dvrpc.dvrpcgis.opendata.arcgis.com/datasets/f8cf3245754c4b79a89a04a5d278a450_0))
 `https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/dvrpc_bicycle_counts.csv`
+
+- Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
+`https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/phl_bike_network.zip`
 
 - Census Tract Boundaries 2010 ([Census Geography](https://www.census.gov/geo/maps-data/data/tiger-line.html))
 `https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/censustracts2010.zip`
