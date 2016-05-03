@@ -79,17 +79,17 @@ This is where you can view, sort, modfiy, add, and merge datasets together. Very
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/dataview.png)
 
 ### Georeferencing
-If you don't have a Geometry field or Lat/Long in your dataset you can use CartoDB's Georeferencing tool to be able to map your data by address, city name, postal code, admin. region, or IP address.
+If you don't have a Geometry field or Lat/Long in your dataset you can use CartoDB's Georeferencing tool to be able to map your data by street address, city name, postal code, administration region, or IP address.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datageo.png)
 
 ### Data Merge
-You can also merge datasets that have a common field or attribute in common.
+You can also merge datasets that have a common field or attribute.
 We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Profile data.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datamerge.png)
 
 ## Visualizing data in CartoDB (style wizard, infowindows, filters, and cartocss)
 ### Style Wizard
-CartoDB comes with some great map design tools that allow the user to pick from multple layer styles (simple, choropleth, bubble, torque, heatmap).
+CartoDB comes with some great map design tools that allow the user to pick from multple layer styles (simple, cluster, choropleth, category, bubble, torque, heatmap, intensity, and density).
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_style.png)
 
 ### Infowindows
