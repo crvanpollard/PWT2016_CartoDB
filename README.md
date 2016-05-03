@@ -62,7 +62,7 @@ There are different ways to import data into CartoDB. It can be files you have s
 
 ### Datasets
 Today, we are going to use several local datasets that focus on Bicycle planning.
-I have already downloaded and placed them in my ([GitHub repo](https://github.com/crvanpollard/PWT2016_CartoDB/tree/master/data)) for our use today. Copy the following links below and paste them into your CartoDB importer
+I have already downloaded and have them ready for our use today. Please copy the following URLs below and paste them one at a time into your CartoDB importer.
 
 - Philadelphia Bike Network ([Open Data Philly](https://www.opendataphilly.org/dataset/bike-network))
 `https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/data/phl_bike_network.zip`
