@@ -100,19 +100,19 @@ You can also turn on infowindows which allow users to click or hover over a laye
 
 ### Filters
 There is also a feature that will allow you to set custom filters or parameters on your layer based off attribute information. For instance, in the map below, the filter is set to only show bicycle counts that have an `ADB` over 100.
-![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_fiter.png)
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_filter.png)
 
 ### CartoCSS
 If you wish to have more advanced map styling you can do that with CartoCSS
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_cartocss.png)
 
 ### Creating a map of your data
-Once you are ready to make a map you click the visualize button and you will now have several map layout tools available.Here you can now add a title, text, annotaion, images and select from other mutlple map options.
+Once you are ready to make a map you click the `Visualize` button and you will now have several map layout tools available. Here you can add a title, text, annotaion,and images as well as select from other mutlple map options.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_map.png)
 
 ## Publishing your visualization
 ### Time to share you map with the world
-Once you are ready to share your visualization you simpe click the `Publish` button. There are a few options to choose from such as, a link to email to people, embed it into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
+Once you are ready to share your visualization you click the `Publish` button. There are a few options to choose from such as: a link that you can send via email or social media, embed it into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
 
 ## CartoDB Deep Insights (coming summer 2016)
