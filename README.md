@@ -13,7 +13,7 @@ cpollard@dvrpc.org, [@CRVanPollard ](https://twitter.com/CRVanPollard)
 - Getting started 
 - Importing data into CartoDB
 - Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
-- Sharing your visualization
+- Publishing your visualization
 - CartoDB Deep Insights (coming summer 2016)
 
 ## Overview of CartoDB
@@ -89,9 +89,31 @@ You can also merge datasets that have a common field or attribute in common.
 We will do this with our Census Tract shapefile and ACS 2009-2013 Demographic Profile data.
 ![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/datamerge.png)
 
-## Visualizing data in CartoDB (style wizard, infowindows, filters, cartocss)
+## Visualizing data in CartoDB (style wizard, infowindows, filters, and cartocss)
+### Style Wizard
+CartoDB comes with some great map design tools that allow the user to pick from multple layer styles (simple, choropleth, bubble, torque, heatmap).
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_style.png)
 
-## Sharing your visualization
+### Infowindows
+You can also turn on infowindows which allow users to click or hover over a layer and view specific information about that feature. You can select from your list of attribute fields and limit the data that you show.
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_info.png)
+
+### Filters
+There is also a feature that will allow you to set custom filters or parameters on your layer based off attribute information. For instance, in the map below, the filter is set to only show bicycle counts that have an `ADB` over 100.
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_fiter.png)
+
+### CartoCSS
+If you wish to have more advanced map styling you can do that with CartoCSS
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_cartocss.png)
+
+### Creating a map of your data
+Once you are ready to make a map you click the visualize button and you will now have several map layout tools available.Here you can now add a title, text, annotaion, images and select from other mutlple map options.
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/mapview_map.png)
+
+## Publishing your visualization
+### Time to share you map with the world
+Once you are ready to share your visualization you simpe click the `Publish` button. There are a few options to choose from such as, a link to email to people, embed it into a blog or website, or add it to an existing or custom web mapping applications using CartoDB.js.
+![alt text](https://raw.githubusercontent.com/crvanpollard/PWT2016_CartoDB/master/img/publish.png)
 
 ## CartoDB Deep Insights (coming summer 2016)
 Predictive analytics and on-the-fly visualiztion that will drastically improve CartoDB workflows and analysis.
